@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text Brush</string>
+    <string name="confirm_change_word">Confirm change word</string>
+    <string name="cancel_change_word">Cancel change word</string>
+    <string name="background">background</string>
+    <string name="picsum_adress">https://picsum.photos/%1$s/%2$s</string>
+    <string name="edit_word">Edit word</string>
+    <string name="remove_last_word">Remove last word</string>
+</resources>
